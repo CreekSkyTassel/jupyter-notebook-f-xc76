@@ -1,4 +1,4 @@
-
+Enhance Jupyter Notebook for macOS (через Anaconda) with Jupyter Notebook for macOS (через Anaconda) premium Script: automated-reports & code-autocompletion, the #1 script.
 
 
 
